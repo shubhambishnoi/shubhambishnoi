@@ -2,7 +2,6 @@
 - 👀 I’m interested in frontend web development
 - ⭐I’m currently exploring js in-depth along with building projects
 - ⚡I’m looking to collaborate on frontend development 
-- 📫 How to reach me shubhambishnoi78@gmail.com
 - ✨Website - https://shubhambishnoi.netlify.app
 
 <!---
